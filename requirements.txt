@@ -1,0 +1,11 @@
+torch==2.10.0+cu130
+torchvision==0.25.0+cu13
+fastapi
+uvicorn[standard]
+pillow
+numpy
+pandas
+matplotlib
+pydantic
+python-multipart
+pymupdf
